@@ -87,7 +87,7 @@ Retorna un llistat amb els professors/es que tenen un departament associat i que
 
 # Tecnologies Utilitzades
 
-MySQLWorkbench, Terminal, Git and GitHub
+MongoDB, Terminal, Git and GitHub
 
 # Requisits
 
@@ -95,7 +95,7 @@ Nothing
 
 # Instal·lació
 
-MySQLWorkbench
+MongoDB
 
 # Execució
 
