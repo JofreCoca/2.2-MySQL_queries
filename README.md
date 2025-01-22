@@ -9,6 +9,7 @@ El camp 'codigo_fabricante' de l'entitat producto es relaciona amb el camp 'codi
 Si us plau, efectua les següents consultes:
 
 	1	Llista el nom de tots els productes que hi ha en la taula producto.
+  
 	2	Llista els noms i els preus de tots els productes de la taula producto.
 	3	Llista totes les columnes de la taula producto.
 	4	Llista el nom dels productes, el preu en euros i el preu en dòlars estatunidencs (USD).
